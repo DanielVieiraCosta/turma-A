@@ -1,4 +1,2 @@
 # Daniel V.C
 ---
----
-ads
