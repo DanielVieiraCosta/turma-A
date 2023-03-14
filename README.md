@@ -4,6 +4,6 @@
 
 ## Experiência
 
--Aluno
+- Aluno
 
--Trabalho com o Pai
+- Trabalho com o Pai
