@@ -2,6 +2,19 @@
 
 ---
 
+## Dados Pessoais
+
+
+CPF: XXXXXXX
+
+RG: XXXXXX
+
+Telefone: XXXXXX
+
+E-Mail: XXXXX
+
+---
+
 ### Experiência
 
 - Aluno
