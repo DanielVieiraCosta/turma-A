@@ -1,14 +1,9 @@
-# Daniel V.C
+# Daniel Vieira da Costa
 
 ---
 
-## Dados Pessoais
+### Experiência
 
+- Aluno
 
-CPF: XXXXXXX
-
-RG: XXXXXX
-
-Telefone: XXXXXX
-
-E-Mail: XXXXX
+- Trabalho com o Pai
