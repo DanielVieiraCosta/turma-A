@@ -17,6 +17,4 @@ E-Mail: XXXXX
 
 ### Experiência
 
-- Aluno
-
-- Trabalho com o Pai
+- Estudante de ADS
